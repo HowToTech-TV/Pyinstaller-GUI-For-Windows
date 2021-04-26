@@ -8,7 +8,8 @@ You must install Pyinstaller.
 Run the following code:
 ```pip install pyinstaller```
 ## Photo of the GUI
-![2021-04-26 (8)](https://user-images.githubusercontent.com/81604130/116025222-91fa6e80-a682-11eb-8629-31e6679aa2f4.png)
+![Screenshot 2021-04-26 114403](https://user-images.githubusercontent.com/81604130/116026177-bbb49500-a684-11eb-99ec-abfe59ff40f4.png)
+
 
 
 ## Release
