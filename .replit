@@ -1,2 +1,2 @@
-language = "python3"
+language = "Tkinter"
 run = "Pyinstaller GUI.py"
